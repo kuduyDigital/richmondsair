@@ -1,0 +1,9 @@
+node_modules/
+.claude/
+videoplayback.mp4
+
+# Internal project docs (kept local)
+PROJECT_BRIEF.md
+MARKET_RESEARCH.md
+DESIGN_PROPOSAL.md
+QA_REPORT.md
