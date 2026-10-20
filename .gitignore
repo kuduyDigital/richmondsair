@@ -7,3 +7,7 @@ PROJECT_BRIEF.md
 MARKET_RESEARCH.md
 DESIGN_PROPOSAL.md
 QA_REPORT.md
+mockups/
+
+# Dev CSS output (npm run dev / build:css)
+/css/

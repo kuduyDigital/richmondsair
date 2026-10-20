@@ -1,6 +1,7 @@
-@import "tailwindcss";
+@import "tailwindcss" source(none);
 @source "../index.html";
 @source "../js";
+@source not "../js/vendor";
 
 /* ---------- Fonts (self-hosted, OFL) ---------- */
 @font-face { font-family: "Barlow Condensed"; font-style: italic; font-weight: 800; font-display: swap; src: url("../assets/fonts/barlow-condensed-latin-800-italic.woff2") format("woff2"); }
